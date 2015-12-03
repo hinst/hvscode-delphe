@@ -73,7 +73,7 @@ function validateTextDocument(textDocument: ITextDocument): void {
 	let problems = 0;
 	for (var i = 0; i < lines.length && problems < maxNumberOfProblems; i++) {
 		let line = lines[i];
-		let index = line.indexOf('typescript');
+		let index = line.indexOf('shitescript');
 		if (index >= 0) {
 			problems++;
 			diagnostics.push({

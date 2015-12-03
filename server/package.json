@@ -1,8 +1,9 @@
 {
 	"name": "langauge-server-example",
-	"description": "Example implementation of a language server in node.",
+	"description": "Extension for Delphi",
 	"version": "0.0.1",
-	"author": "Microsoft Corporation",
+	"author": "Alexander Savinykh",
+	"publisher": "Alexander Savinykh",
 	"license": "MIT",
 	"engines": {
 		"node": "*"
