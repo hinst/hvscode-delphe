@@ -1,1 +1,1 @@
-code --extensionDevelopmentPath=D:\Dev\hvscode-delphe D:\Dev\ADC\1\REPO
+code --extensionDevelopmentPath=D:\Dev\hvscode-delphe\client D:\Dev\ADC\1\REPO

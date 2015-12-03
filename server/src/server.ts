@@ -27,6 +27,7 @@ documents.listen(connection);
 let workspaceRoot: string;
 connection.onInitialize((params): InitializeResult => {
 	workspaceRoot = params.rootPath;
+	console.log("Now initializing language server at folder '" + workspaceRoot + "'");
 	return {
 		capabilities: {
 			// Tell the client that the server works in FULL text document sync mode
